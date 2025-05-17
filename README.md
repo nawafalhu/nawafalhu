@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @nawafalhu
-- 👀 I’m interested in Data analysis and Machine Learning
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on data analysis Project
 - 📫 How to reach me nawafalhu.work@gmail.com
 
 <!---
